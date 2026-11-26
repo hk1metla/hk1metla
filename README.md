@@ -16,12 +16,12 @@ The project connects data preparation, recommendation models, ranking evaluation
 
 My coursework has included:
 
-- **College Scorecard Insights:** relational data modelling, data ingestion and a Node.js, Express and MySQL application.
-- **Fake-news classification:** comparison of TF-IDF with Multinomial Naive Bayes and an embedding-based BiLSTM.
+- **[College Scorecard Insights](https://github.com/hk1metla/college-scorecard-insights):** relational data modelling, data ingestion and a Node.js, Express and MySQL application.
+- **[Fake-news classification](https://github.com/hk1metla/fake-news-classification):** comparison of TF-IDF with Multinomial Naive Bayes and an embedding-based BiLSTM, restored from the coursework report.
 - **Evolutionary robotics:** genetic algorithms in PyBullet, with a climbing objective and generation-level fitness analysis.
 - **Signal processing:** vehicle tracking and directional counting, Rice coding for lossless audio compression, and webcam image processing.
 
-Source releases for these coursework projects are being prepared for this portfolio.
+College Scorecard and fake-news source releases include setup and provenance notes. Robotics and signal-processing releases are being prepared.
 
 ## Research interests
 
