@@ -11,7 +11,6 @@ I build experiments around questions that can change a result. Can a text classi
 * **[News classification](https://github.com/hk1metla/fake-news-classification)** tests how well a text baseline separates two news collections and examines the effect of publisher and dateline cues.
 * **[Video tracking](https://github.com/hk1metla/computer-vision-lab)** follows moving objects across a counting line in OpenCV. A generated clip makes the result easy to check.
 * **[Lossless audio coding](https://github.com/hk1metla/signal-processing-lab)** encodes 16-bit PCM with Rice codes and checks that decoding recovers each sample exactly.
-* **[Weather across five Saudi cities](https://github.com/hk1metla/saudi-weather-analysis)** compares seasonal temperature and precipitation using 11,840 city-days of ERA5 data.
 
 ## Other projects
 
