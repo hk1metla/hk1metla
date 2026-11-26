@@ -1,47 +1,19 @@
-![Shahzaib Naeem](assets/profile-banner.svg)
-
 # Shahzaib Naeem
 
-Computer Science graduate focused on **artificial intelligence, machine learning and building practical software**.
+I'm a computer science graduate in Lahore, Pakistan. I build machine learning experiments and data applications. I'm especially interested in what changes a model's performance: the data it sees, the baseline it competes against and the people included in its evaluation.
 
-I work across NLP, computer vision, recommendation, evolutionary optimization and data systems. I am interested in how models learn from imperfect data, how to evaluate them reliably, and how to turn experiments into understandable applications. My professional background in educational consulting also gives me experience translating complex requirements into useful outcomes.
+I hold a **First-Class BSc in Computer Science** from the University of London, with a focus on machine learning and artificial intelligence. I welcome research collaborations in applied ML, including language, vision, recommendation and optimization.
 
-I am open to **research and applied AI collaborations across domains**, including work beyond education and recommendation.
+## Selected work
 
-## Projects
+* **[Skillens](https://github.com/hk1metla/CM3070-Skillens)** compares four recommendation methods on Open University activity data. The evaluation traces how 26,074 learners become 43 with a previously unseen test item.
+* **[College Scorecard Insights](https://github.com/hk1metla/college-scorecard-insights)** explores US college completion, earnings and debt. A small working database shows how rankings change when a value is missing or suppressed.
+* **[News classification](https://github.com/hk1metla/fake-news-classification)** tests how well a text baseline separates two news collections and examines the effect of publisher and dateline cues.
+* **[Video tracking](https://github.com/hk1metla/computer-vision-lab)** follows moving objects across a counting line in OpenCV. A generated clip makes the result easy to check.
+* **[Lossless audio coding](https://github.com/hk1metla/signal-processing-lab)** encodes 16-bit PCM with Rice codes and checks that decoding recovers each sample exactly.
 
-| Project | Focus | Explore |
-| --- | --- | --- |
-| **Skillens** | Hybrid recommendation, sparse feedback, ranking evaluation and a Streamlit interface | [Repository](https://github.com/hk1metla/CM3070-Skillens) |
-| **Evolutionary Robotics** | Genetic search, robot morphology, motor control and PyBullet simulation | [Repository](https://github.com/hk1metla/evolutionary-robotics) |
-| **Computer Vision Lab** | Motion segmentation, centroid tracking and directional video counts | [Repository](https://github.com/hk1metla/computer-vision-lab) |
-| **Fake-news Classification** | TF-IDF/Naive Bayes versus BiLSTM, data splits and evaluation safeguards | [Repository](https://github.com/hk1metla/fake-news-classification) |
-| **College Scorecard Insights** | Relational modelling, data ingestion, missingness audits and SQL analytics | [Repository](https://github.com/hk1metla/college-scorecard-insights) |
-| **Signal Processing Lab** | Lossless audio coding, FFT analysis, steganography and speech experiments | [Repository](https://github.com/hk1metla/signal-processing-lab) |
-| **Creative Computing Lab** | Interactive drawing tools and a browser physics simulation | [Repository](https://github.com/hk1metla/creative-computing-lab) |
-| **Web and Systems Lab** | Database-backed apps, Flask prototypes, JavaScript algorithms and C++ | [Repository](https://github.com/hk1metla/web-and-systems-lab) |
+## Other projects
 
-Each repository explains its methods, setup, source history and current limitations. Verification ranges from complete small demonstrations to preserved experimental implementations; the project guides distinguish these clearly.
+Explore [evolutionary robotics](https://github.com/hk1metla/evolutionary-robotics) for PyBullet simulation, [creative computing](https://github.com/hk1metla/creative-computing-lab) for interactive drawing and pool, or [web and systems](https://github.com/hk1metla/web-and-systems-lab) for database applications and C++.
 
-## Research directions
-
-- Applied machine learning, representation learning and generalization
-- Natural language processing and computer vision
-- Evolutionary optimization, intelligent agents and decision-making
-- Explainable and trustworthy AI, robustness and evaluation
-- Recommendation, information retrieval and learning analytics
-- Data engineering and reproducible ML systems
-
-These are areas I want to investigate and develop, rather than a claim of equal expertise in every field.
-
-## Tools used in my projects
-
-**Models and data:** Python, NumPy, pandas, SciPy, scikit-learn, TensorFlow, OpenCV and PyBullet.  
-**Applications and systems:** Streamlit, Flask, SQL, MySQL, SQLite, Node.js, Express, JavaScript and C++.
-
-## Background
-
-BSc Computer Science, Machine Learning and Artificial Intelligence pathway.  
-University of London, **First-Class Honours**, 2026.
-
-Based in Lahore, Pakistan. Open to research opportunities, technical collaboration and applied AI projects.
+For a technical question or collaboration idea about a project, open an issue in its repository.
